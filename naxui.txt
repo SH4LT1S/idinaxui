@@ -18,3 +18,5 @@ ff02::3 ip6-allhosts
 172.67.172.104 clickadilla.com
 104.21.55.189 clickadilla.com
 198.54.200.90 geo.dailymotion.com
+104.21.235.90 player.gliacloud.com
+104.21.235.89 player.gliacloud.com

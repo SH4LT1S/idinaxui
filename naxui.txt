@@ -17,3 +17,4 @@ ff02::3 ip6-allhosts
 88.99.137.91 clickadillainpage2.sm-dsp.ru
 172.67.172.104 clickadilla.com
 104.21.55.189 clickadilla.com
+198.54.200.90 geo.dailymotion.com

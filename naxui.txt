@@ -20,3 +20,4 @@ ff02::3 ip6-allhosts
 198.54.200.90 geo.dailymotion.com
 104.21.235.90 player.gliacloud.com
 104.21.235.89 player.gliacloud.com
+66.254.114.38 ads.trafficjunky.net

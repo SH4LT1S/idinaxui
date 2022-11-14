@@ -21,3 +21,10 @@ ff02::3 ip6-allhosts
 104.21.235.90 player.gliacloud.com
 104.21.235.89 player.gliacloud.com
 66.254.114.38 ads.trafficjunky.net
+
+//IPv4	Hosted by DELFI UAB DELFI UAB	Lithuania
+91.234.200.111 g1.dcdn.lt	
+91.234.200.112 g1.dcdn.lt	
+91.234.200.110 g1.dcdn.lt	
+91.234.200.114 g1.dcdn.lt	
+91.234.200.113 g1.dcdn.lt
